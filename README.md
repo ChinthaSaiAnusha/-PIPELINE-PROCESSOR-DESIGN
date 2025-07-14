@@ -24,4 +24,4 @@ This task helped me understand not only how pipelined processors operate but als
 All the design code, testbench, and simulation screenshots have been organized and stored in my GitHub repository for further review and demonstration. This hands-on experience has given me a solid foundation and confidence to work on more advanced processor architectures and complex pipelined systems in the future.
 
 OUTPUT OF THE TASK 
-<img width="1913" height="645" alt="Image" src="https://github.com/user-attachments/assets/94bb46be-3842-4299-8f38-6b08c1dfd4cf" />
+![Image](https://github.com/user-attachments/assets/651a523d-0540-4bb1-a885-3382d65e4795)
